@@ -1,11 +1,7 @@
 ### Hi there 👋
 
-<!--
-**zeynepylmaz/zeynepylmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="GIF" src="https://camo.githubusercontent.com/6a0f76c7f114b2c8300ca379673520e5a898a0241ab216074dd7368354038abe/68747470733a2f2f692e696d6775722e636f6d2f6b644b686778362e676966" width="500" height="500" />
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
-Here are some ideas to get you started:
 
 🔭 I’m currently working on something cool 😉
 🌱 I’m currently learning everything 🤣
@@ -18,3 +14,17 @@ Here are some ideas to get you started:
 ## ⏲ What we are doing now:
 I am a data analysis student at Up School.  📃
 I am working for the Capstone project. 💻
+
+### 📩 Connect with me:
+[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
+
+
+<br />
+
+
+[instagram]: https://www.instagram.com/zeynep.yilmaaz/
+[linkedin]: https://www.linkedin.com/in/zeynep-yillmaz/
+[gmail]: mailto:zeyneepyilmaz12@gmail.com
+<br />
