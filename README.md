@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 🥅 2021 Goals: Being a good data analyst 🌎 and learning artificial intelligence 🤖
 - ⚡ Fun fact: I like to swim , go camping, participate in music festivals and explore digital exhibitions.
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
 
 ## ⏲ What we are doing now:
 I am a data analysis student at Up School.  📃
