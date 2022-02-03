@@ -4,15 +4,21 @@
 
 
 🔭 I’m currently working on something cool 😉
+
 🌱 I’m currently learning everything 🤣
+
 👯 I’m looking to collaborate with other data analyst and data scientists 
+
 🤔 I’m looking for help with data analysis and data science
+
 🥅 2021 Goals: Being a good data analyst 🌎 and learning artificial intelligence 🤖
+
 ⚡ Fun fact: I like to swim , go camping, participate in music festivals and explore digital exhibitions.
 
 
 ## ⏲ What we are doing now:
 I am a data analysis student at Up School.  📃
+
 I am working for the Capstone project. 💻
 
 ### 📩 Connect with me:
