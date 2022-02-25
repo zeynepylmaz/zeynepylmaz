@@ -26,6 +26,7 @@ I am working for the Capstone project. 💻
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />][twitter]
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/kaggle.svg" />][kaggle]
 
 <br />
 
@@ -34,4 +35,5 @@ I am working for the Capstone project. 💻
 [linkedin]: https://www.linkedin.com/in/zeynep-yillmaz/
 [gmail]: mailto:zeyneepyilmaz12@gmail.com
 [twitter]: https://twitter.com/zeynepyiilmazz_
+[kaggle]: https://www.kaggle.com/zeynepyilmaaz
 <br />
